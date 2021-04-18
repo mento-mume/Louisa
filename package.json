@@ -1,0 +1,16 @@
+{
+  "name": "louisa",
+  "version": "1.0.0",
+  "description": "personal development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mento_mume",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "morgan": "^1.10.0"
+  }
+}
